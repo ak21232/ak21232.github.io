@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   KhanCode is a website that includes Abraar Khan's passion projects. I 
   hope this can give an idea of my curiosity and dedication to continually 
   learn new skills.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/ak21232.github.io" # the subpath of your site, e.g. /blog
 url: "https://ak21232.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ak21232
 github_username:  ak21232
