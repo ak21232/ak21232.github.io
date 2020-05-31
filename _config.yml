@@ -1,6 +1,6 @@
 # Site settings
 
-title: KhanCode
+#title: KhanCode
 baseurl: "/ak21232.github.io" # the subpath of your site, e.g. /blog
 url: "localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
 
