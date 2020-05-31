@@ -12,6 +12,7 @@ layout: home
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<script src="https://kit.fontawesome.com/a2b003a1d5.js" crossorigin="anonymous"></script>
 <style>
 body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif;}
 body, html {
@@ -93,10 +94,10 @@ body, html {
 <!-- Container (About Section) -->
 <div class="w3-content w3-container w3-padding-64" id="about">
   <h3 class="w3-center">ABOUT ME</h3>
-  <p class="w3-center"><em>I find what I suck at and fix it</em></p>
+  <p class="w3-center"><em>Always looking to get better</em></p>
   <p>As I've gone though the challenges of life I have come to notice one thing: there are tons of things I suck at. In highschool I sucked at math and chemistry.
-	In undergrad I sucked at statistics and computer science. What I do not suck at is identifying these issues and bridging the gap to improve at what I lack. Currently I am a Software 
-	Reliability Engineer who's attending grad school for a Master's in Computer Science with a B.S. in Chemical Engineering and a certification in Data Science. I constantly re-evaluate 
+	In undergrad I sucked at statistics and computer science. What I do not suck at is identifying these issues and bridging the gap to improve at what I lack. Currently I am a Software
+	Reliability Engineer who's attending grad school for a Master's in Computer Science with a B.S. in Chemical Engineering and a certification in Data Science. I constantly re-evaluate
 	myself and develop weaknesses into passions.</p>
   <div class="w3-row">
     <div class="w3-col m6 w3-center w3-padding-large">
@@ -106,41 +107,41 @@ body, html {
 
     <!-- Hide this text on small devices -->
     <div class="w3-col m6 w3-hide-small w3-padding-large">
-      <p>Welcome to my website! I've chosen to create this to better give others a chance to get to know who I am and what I like to do. Below you will find further information on what I'm 
+      <p>Welcome to my website! I've chosen to create this to better give others a chance to get to know who I am and what I like to do. Below you will find further information on what I'm
 		 I'm good at, what I like to work on, and how to reach me.</p>
     </div>
   </div>
   <p class="w3-large w3-center w3-padding-16">I'm really good at:</p>
-  <p class="w3-wide"><i class="fa fa-code"></i>Programming</p>
+  <p class="w3-wide"><i class="fa fa-database"></i>Database Management</p>
   <div class="w3-light-grey">
-    <div class="w3-container w3-padding-small w3-dark-grey w3-center" style="width:90%">90%</div>
+    <div class="w3-container w3-padding-small w3-dark-grey w3-center" style="width:80%">80%</div>
   </div>
-  <p class="w3-wide"><i class="fa fa-laptop"></i>Web Design</p>
+  <p class="w3-wide"><i class="fa fa-code"></i>Python | C++</p>
   <div class="w3-light-grey">
     <div class="w3-container w3-padding-small w3-dark-grey w3-center" style="width:85%">85%</div>
   </div>
-  <p class="w3-wide"><i class="fa fa-photo"></i>Photoshop</p>
+  <p class="w3-wide"><i class="fa fa-chart-line"></i>Business Intelligence</p>
   <div class="w3-light-grey">
-    <div class="w3-container w3-padding-small w3-dark-grey w3-center" style="width:75%">75%</div>
+    <div class="w3-container w3-padding-small w3-dark-grey w3-center" style="width:90%">90%</div>
+  </div>
+  <p class="w3-wide"><i class="fa fa-life-ring"></i>Application Reliability</p>
+  <div class="w3-light-grey">
+    <div class="w3-container w3-padding-small w3-dark-grey w3-center" style="width:90%">90%</div>
   </div>
 </div>
 
 <div class="w3-row w3-center w3-dark-grey w3-padding-16">
   <div class="w3-quarter w3-section">
-    <span class="w3-xlarge">14+</span><br>
-    Partners
+    <i class="fa fa-database"></i>
   </div>
   <div class="w3-quarter w3-section">
-    <span class="w3-xlarge">55+</span><br>
-    Projects Done
+    <i class="fa fa-code"></i>
   </div>
   <div class="w3-quarter w3-section">
-    <span class="w3-xlarge">89+</span><br>
-    Happy Clients
+    <i class="fa fa-chart-line"></i>
   </div>
   <div class="w3-quarter w3-section">
-    <span class="w3-xlarge">150+</span><br>
-    Meetings
+    <i class="fa fa-life-ring"></i>
   </div>
 </div>
 
@@ -153,8 +154,8 @@ body, html {
 
 <!-- Container (Portfolio Section) -->
 <div class="w3-content w3-container w3-padding-64" id="portfolio">
-  <h3 class="w3-center">MY WORK</h3>
-  <p class="w3-center"><em>Here are some of my latest lorem work ipsum tipsum.<br> Click on the images to make them bigger</em></p><br>
+  <h3 class="w3-center">What I've Been Working On</h3>
+  <p class="w3-center"><em>Check out some screenshots of my latest projects tipsum.<br> Take a closer look at the behind the scenes on my GitHub Page</em></p><br>
 
   <!-- Responsive Grid. Four columns on tablets, laptops and desktops. Will stack on mobile devices/small screens (100% width) -->
   <div class="w3-row-padding w3-center">
@@ -213,8 +214,8 @@ body, html {
 
 <!-- Container (Contact Section) -->
 <div class="w3-content w3-container w3-padding-64" id="contact">
-  <h3 class="w3-center">WHERE I WORK</h3>
-  <p class="w3-center"><em>I'd love your feedback!</em></p>
+  <h3 class="w3-center">How to Reach Out</h3>
+  <p class="w3-center"><em>Let's keep in touch</em></p>
 
   <div class="w3-row w3-padding-32 w3-section">
     <div class="w3-col m4 w3-container">
@@ -222,11 +223,11 @@ body, html {
     </div>
     <div class="w3-col m8 w3-panel">
       <div class="w3-large w3-margin-bottom">
-        <i class="fa fa-map-marker fa-fw w3-hover-text-black w3-xlarge w3-margin-right"></i> Chicago, US<br>
-        <i class="fa fa-phone fa-fw w3-hover-text-black w3-xlarge w3-margin-right"></i> Phone: +00 151515<br>
-        <i class="fa fa-envelope fa-fw w3-hover-text-black w3-xlarge w3-margin-right"></i> Email: mail@mail.com<br>
+        <i class="fa fa-map-marker fa-fw w3-hover-text-black w3-xlarge w3-margin-right"></i> Los Angeles, CA<br>
+        <i class="fa fa-phone fa-fw w3-hover-text-black w3-xlarge w3-margin-right"></i> Phone: (818) 254-8592‬<br>
+        <i class="fa fa-envelope fa-fw w3-hover-text-black w3-xlarge w3-margin-right"></i> Email: akhan022@ucr.edu<br>
       </div>
-      <p>Swing by for a cup of <i class="fa fa-coffee"></i>, or leave me a note:</p>
+      <p><i class="fa fa-comments w3-hover-text-black w3-xlarge w3-margin-right"></i> Start a conversation </p>
       <form action="/action_page.php" target="_blank">
         <div class="w3-row-padding" style="margin:0 -16px 8px -16px">
           <div class="w3-half">
@@ -249,16 +250,11 @@ body, html {
 <footer class="w3-center w3-black w3-padding-64 w3-opacity w3-hover-opacity-off">
   <a href="#home" class="w3-button w3-light-grey"><i class="fa fa-arrow-up w3-margin-right"></i>To the top</a>
   <div class="w3-xlarge w3-section">
-    <i class="fa fa-facebook-official w3-hover-opacity"></i>
-    <i class="fa fa-instagram w3-hover-opacity"></i>
-    <i class="fa fa-snapchat w3-hover-opacity"></i>
-    <i class="fa fa-pinterest-p w3-hover-opacity"></i>
-    <i class="fa fa-twitter w3-hover-opacity"></i>
+    <i class="fa fa-github w3-hover-opacity"></i>
     <i class="fa fa-linkedin w3-hover-opacity"></i>
   </div>
-  <p>Powered by <a href="https://www.w3schools.com/w3css/default.asp" title="W3.CSS" target="_blank" class="w3-hover-text-green">w3.css</a></p>
 </footer>
- 
+
 <script>
 // Modal Image Gallery
 function onClick(element) {
@@ -292,4 +288,3 @@ function toggleFunction() {
 
 </body>
 </html>
-
