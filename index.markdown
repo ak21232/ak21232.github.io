@@ -87,7 +87,7 @@ body, html {
 <!-- First Parallax Image with Logo Text -->
 <div class="bgimg-1 w3-display-container w3-opacity-min" id="home">
   <div class="w3-display-middle" style="white-space:nowrap;">
-    <span class="w3-center w3-padding-large w3-black w3-xlarge w3-wide w3-animate-opacity">KHAN<span class="w3-hide-small">CODE</span></span>
+    <span class="w3-center w3-padding-large w3-black w3-xlarge w3-wide w3-animate-opacity">KHANCODE<span class="w3-hide-small"></span></span>
   </div>
 </div>
 
@@ -140,16 +140,26 @@ body, html {
 <!-- Container (Portfolio Section) -->
 <div class="w3-content w3-container w3-padding-64" id="portfolio">
   <h3 class="w3-center">What I've Been Working On</h3>
-  <p class="w3-center"><em>Check out some screenshots of my latest projects tipsum.<br> Take a closer look at the behind the scenes on my GitHub Page</em></p><br>
+  <p class="w3-center"><em> Click the caption to jump to my  <i class= "fa fa-github"></i> and look under the hood </em></p><br>
 
   <!-- Responsive Grid. Four columns on tablets, laptops and desktops. Will stack on mobile devices/small screens (100% width) -->
   <div class="w3-row-padding w3-center">
     <div class="w3-col m3">
-      <img src="images/p1.jpg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="Covid-19 Model">
+      <img src="images/COVID-19.png"  onclick="onClick(this)" class="w3-hover-opacity" alt="Covid-19 Model">
+      <a href="https://github.com/ak21232/california-coronavirus-data">COVID-19 Model</a>
     </div>
-    <button class="w3-button w3-padding-large w3-light-grey" style="margin-top:64px">LOAD MORE</button>
-  </div>
+    <div class="w3-col m3">
+      <img src="images/ScheduleOptimizer.png" width=94px height=94px onclick="onClick(this)" class="w3-hover-opacity" alt="Schedule Optimizer">
+      <a href="https://github.com/CSUF-CPSC121-2020S0608/project06-ak21232.git">Schedule Optimizer</a>
+    </div>
+    <div class="w3-col m3">
+      <img src="images/ResourceMonitor.png" width=94px height=94px onclick="onClick(this)" class="w3-hover-opacity" alt="Resource Monitor">
+      <a href="https://github.com/ak21232/Resource_Monitor.git">Resource Monitor</a>
+    </div>
 </div>
+<br>
+<hr>
+<br>
 
 <!-- Modal for full size images on click-->
 <div id="modal01" class="w3-modal w3-black" onclick="this.style.display='none'">
@@ -240,6 +250,3 @@ function toggleFunction() {
     }
 }
 </script>
-
-</body>
-</html>
