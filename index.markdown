@@ -150,7 +150,7 @@ body, html {
     </div>
     <div class="w3-col m3">
       <img src="images/ScheduleOptimizer.png" width=94px height=94px onclick="onClick(this)" class="w3-hover-opacity" alt="Schedule Optimizer">
-      <a href="https://github.com/CSUF-CPSC121-2020S0608/project06-ak21232.git">Schedule Optimizer</a>
+      <a href="https://github.com/ak21232/Schedule_Optimizer.git">Schedule Optimizer</a>
     </div>
     <div class="w3-col m3">
       <img src="images/ResourceMonitor.png" width=94px height=94px onclick="onClick(this)" class="w3-hover-opacity" alt="Resource Monitor">
