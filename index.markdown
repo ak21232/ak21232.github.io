@@ -107,11 +107,12 @@ body, html {
 
     <!-- Hide this text on small devices -->
     <div class="w3-col m6 w3-hide-small w3-padding-large">
-      <p>Welcome to my website! I've chosen to create this to better give others a chance to get to know who I am and what I like to do. Below you will find further information on what I'm
-		 I'm good at, what I like to work on, and how to reach me.</p>
+      <p>I've chosen to create this website to give you a better idea of who I am and what I like to do. You may notice a variety of programming projects with varying degrees of complexity. As a programmer without the traditional programming background I think its important that I can display my progress. Each step was important in forming the engineer I am today. Please feel free to browse through my work and contact me for inquiries. All the information is laid out below. </p>
     </div>
   </div>
-  <p class="w3-large w3-center w3-padding-16">Strengths</p>
+  <br>
+  <br>
+  <h3 class="w3-center">My Skills</h3>
   <br>
   <p class="w3-wide"><i class="fa fa-code fa-lg"></i>   C++   |   Python   |   Visual Basic</p>
   <hr>
@@ -133,7 +134,7 @@ body, html {
 <!-- Second Parallax Image with Portfolio Text -->
 <div class="bgimg-2 w3-display-container w3-opacity-min">
   <div class="w3-display-middle">
-    <span class="w3-xxlarge w3-text-white w3-wide">PORTFOLIO</span>
+    <span class="w3-xxlarge w3-text-white w3-wide">PROJECTS</span>
   </div>
 </div>
 
@@ -149,11 +150,11 @@ body, html {
       <a href="https://github.com/ak21232/california-coronavirus-data">COVID-19 Model</a>
     </div>
     <div class="w3-col m3">
-      <img src="images/ScheduleOptimizer.png" width=94px height=94px onclick="onClick(this)" class="w3-hover-opacity" alt="Schedule Optimizer">
+      <img src="images/ScheduleOptimizer.png" onclick="onClick(this)" class="w3-hover-opacity" alt="Schedule Optimizer">
       <a href="https://github.com/ak21232/Schedule_Optimizer.git">Schedule Optimizer</a>
     </div>
     <div class="w3-col m3">
-      <img src="images/ResourceMonitor.png" width=94px height=94px onclick="onClick(this)" class="w3-hover-opacity" alt="Resource Monitor">
+      <img src="images/ResourceMonitor.png" onclick="onClick(this)" class="w3-hover-opacity" alt="Resource Monitor">
       <a href="https://github.com/ak21232/Resource_Monitor.git">Resource Monitor</a>
     </div>
 </div>
@@ -215,8 +216,8 @@ body, html {
 <footer class="w3-center w3-black w3-padding-64 w3-opacity w3-hover-opacity-off">
   <a href="#home" class="w3-button w3-light-grey"><i class="fa fa-arrow-up w3-margin-right"></i>To the top</a>
   <div class="w3-xlarge w3-section">
-    <i class="fa fa-github w3-hover-opacity"></i>&emsp;
-    <i class="fa fa-linkedin w3-hover-opacity"></i>
+    <a href="https://github.com/ak21232"><i class="fa fa-github w3-hover-opacity"></i></a>&emsp;
+    <a href="https://www.linkedin.com/in/abraarkhan/"><i class="fa fa-linkedin w3-hover-opacity"></i></a>
   </div>
 </footer>
 
