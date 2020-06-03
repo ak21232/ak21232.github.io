@@ -147,10 +147,14 @@ body, html {
 <!-- Container (Portfolio Section) -->
 <div class="w3-content w3-container w3-padding-64" id="portfolio">
   <h3 class="w3-center">What I've Been Working On</h3>
-  <p class="w3-center"><em> Click the caption to jump to my  <i class= "fa fa-github"></i> and look under the hood </em></p><br>
+  <p class="w3-center"><em> Click the caption to take a look at the project </em></p><br>
 
   <!-- Responsive Grid. Four columns on tablets, laptops and desktops. Will stack on mobile devices/small screens (100% width) -->
   <div class="w3-row-padding w3-center">
+    <div class="w3-col m3">
+      <img src="images/NaturalGasRecovery.png"  onclick="onClick(this)" class="w3-hover-opacity" alt="Natural Gas Recovery Project">
+      <a href="https://drive.google.com/file/d/0B4guoFwFU9reZ1lQQVJfTVhjQVU/view?usp=sharing">Natural Gas Recovery</a>
+    </div>
     <div class="w3-col m3">
       <img src="images/COVID-19.png"  onclick="onClick(this)" class="w3-hover-opacity" alt="Covid-19 Model">
       <a href="https://github.com/ak21232/california-coronavirus-data">COVID-19 Model</a>
@@ -159,10 +163,17 @@ body, html {
       <img src="images/ScheduleOptimizer.png" onclick="onClick(this)" class="w3-hover-opacity" alt="Schedule Optimizer">
       <a href="https://github.com/ak21232/Schedule_Optimizer.git">Schedule Optimizer</a>
     </div>
+  </div>
+  <div class="w3-row-padding w3-center">
+    <div class="w3-col m3">
+      <img src="images/ProcessControl.png" onclick="onClick(this)" class="w3-hover-opacity" alt="Process Control">
+      <a href="https://github.com/ak21232/ProcessControl.git">Process Control</a>
+    </div>
     <div class="w3-col m3">
       <img src="images/ResourceMonitor.png" onclick="onClick(this)" class="w3-hover-opacity" alt="Resource Monitor">
       <a href="https://github.com/ak21232/Resource_Monitor.git">Resource Monitor</a>
     </div>
+  </div>
 </div>
 <br>
 <hr>
@@ -200,7 +211,7 @@ body, html {
         <i class="fa fa-envelope fa-fw w3-hover-text-black w3-xlarge w3-margin-right"></i> Email: akhan022@ucr.edu<br>
       </div>
       <p><i class="fa fa-comments w3-hover-text-black w3-xlarge w3-margin-right"></i> Start a conversation </p>
-      <form action="/action_page.php" target="_blank">
+      <form action="mailto:ak21232@gmail.com" method="post" enctype="text/plain">
         <div class="w3-row-padding" style="margin:0 -16px 8px -16px">
           <div class="w3-half">
             <input class="w3-input w3-border" type="text" placeholder="Name" required name="Name">
