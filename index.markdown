@@ -68,6 +68,7 @@ body, html {
     </a>
     <a href="#home" class="w3-bar-item w3-button">HOME</a>
     <a href="#about" class="w3-bar-item w3-button w3-hide-small"><i class="fa fa-user"></i> ABOUT</a>
+    <a href="#myskills" class="w3-bar-item w3-button w3-hide-small"><i class="fa fa-user"></i> MY SKILLS</a>
     <a href="#portfolio" class="w3-bar-item w3-button w3-hide-small"><i class="fa fa-project-diagram"></i> PROJECTS</a>
     <a href="#contact" class="w3-bar-item w3-button w3-hide-small"><i class="fa fa-envelope"></i> CONTACT</a>
     <a href="#" class="w3-bar-item w3-button w3-hide-small w3-right w3-hover-red">
@@ -78,6 +79,7 @@ body, html {
   <!-- Navbar on small screens -->
   <div id="navDemo" class="w3-bar-block w3-white w3-hide w3-hide-large w3-hide-medium">
     <a href="#about" class="w3-bar-item w3-button" onclick="toggleFunction()">ABOUT</a>
+    <a href="#myskills" class="w3-bar-item w3-button" onclick="toggleFunction()">MY SKILLS</a>
     <a href="#portfolio" class="w3-bar-item w3-button" onclick="toggleFunction()">PROJECTS</a>
     <a href="#contact" class="w3-bar-item w3-button" onclick="toggleFunction()">CONTACT</a>
     <a href="#" class="w3-bar-item w3-button">SEARCH</a>
@@ -112,23 +114,27 @@ body, html {
   </div>
   <br>
   <br>
-  <h3 class="w3-center">My Skills</h3>
-  <br>
-  <p class="w3-wide"><i class="fa fa-code fa-lg"></i>   C++   |   Python   |   Visual Basic</p>
-  <hr>
-  <p class="w3-wide"><i class="fa fa-vial fa-lg"></i>   QA Testing</p>
-  <hr>
-  <p class="w3-wide"><i class="fa fa-chart-line fa-lg"></i>   Business Intelligence</p>
-  <hr>
-  <p class="w3-wide"><i class="fa fa-life-ring"></i>   Application Reliability</p>
-  <hr>
-  <p class="w3-wide"><i class="fa fa-database"></i>   Database Management</p>
-  <hr>
-  <p class="w3-wide"><i class="fa fa-aws fa-lg"></i>   Amazon Web Services</p>
-  <hr>
-  <p class="w3-wide"><i class="fa fa-users fa-lg"></i>   Agile Collaboration</p>
-  <hr>
-  <br>
+
+  <!-- Container (My Skills Section) -->
+  <div class="w3-content w3-container w3-padding-64" id="myskills">
+    <h3 class="w3-center">MY SKILLS</h3>
+    <br>
+    <p class="w3-wide"><i class="fa fa-code fa-lg"></i>   C++   |   Python   |   Visual Basic</p>
+    <hr>
+    <p class="w3-wide"><i class="fa fa-vial fa-lg"></i>   QA Testing</p>
+    <hr>
+    <p class="w3-wide"><i class="fa fa-chart-line fa-lg"></i>   Business Intelligence</p>
+    <hr>
+    <p class="w3-wide"><i class="fa fa-life-ring"></i>   Application Reliability</p>
+    <hr>
+    <p class="w3-wide"><i class="fa fa-database"></i>   Database Management</p>
+    <hr>
+    <p class="w3-wide"><i class="fa fa-aws fa-lg"></i>   Amazon Web Services</p>
+    <hr>
+    <p class="w3-wide"><i class="fa fa-users fa-lg"></i>   Agile Collaboration</p>
+    <hr>
+    <br>
+  </div>
 
 
 <!-- Second Parallax Image with Portfolio Text -->
