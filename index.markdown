@@ -99,7 +99,7 @@ body, html {
 <div class="w3-content w3-container w3-padding-64" id="about">
   <h3 class="w3-center">ABOUT ME</h3>
   <p class="w3-center"><em>Infinite Improvement Loop</em></p>
-  <p>As I've gone though the challenges of life I have come to notice one thing: there are tons of things I suck at. In highschool I sucked at math and chemistry.
+  <p>As I've gone through the challenges of life I have come to notice one thing: there are tons of things I suck at. In highschool I sucked at math and chemistry.
 	In undergrad I sucked at statistics and computer science. What I do not suck at is identifying these issues and bridging the gap to improve at what I lack. Currently I am a Software
 	Reliability Engineer who's attending grad school for a Master's in Computer Science with a B.S. in Chemical Engineering and a certification in Data Science. I constantly re-evaluate
 	myself and develop weaknesses into passions.</p>
