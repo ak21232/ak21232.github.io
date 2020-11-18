@@ -32,7 +32,7 @@ body, html {
 /* First image (Logo. Full height) */
 .bgimg-1 {
   background-image: url('images/parallax1.jpg');
-  min-height: 100%;
+  min-height: 400px;
 }
 
 /* Second image (Portfolio) */
@@ -70,6 +70,7 @@ body, html {
     <a href="#about" class="w3-bar-item w3-button w3-hide-small"><i class="fa fa-user"></i> ABOUT</a>
     <a href="#myskills" class="w3-bar-item w3-button w3-hide-small"><i class="fa fa-user"></i> MY SKILLS</a>
     <a href="#portfolio" class="w3-bar-item w3-button w3-hide-small"><i class="fa fa-project-diagram"></i> PROJECTS</a>
+    <a href="#fundraising" class="w3-bar-item w3-button w3-hide-small"><i class="fas fa-hand-holding-heart"></i> FUNDRAISING</a>
     <a href="#contact" class="w3-bar-item w3-button w3-hide-small"><i class="fa fa-envelope"></i> CONTACT</a>
     <a href="#" class="w3-bar-item w3-button w3-hide-small w3-right w3-hover-red">
       <i class="fa fa-search"></i>
@@ -89,26 +90,24 @@ body, html {
 <!-- First Parallax Image with Logo Text -->
 <div class="bgimg-1 w3-display-container w3-opacity-min" id="home">
   <div class="w3-display-middle" style="white-space:nowrap;">
-    <span class="w3-center w3-padding-large w3-black w3-xlarge w3-wide w3-animate-opacity">KHANCODE<span class="w3-hide-small"></span></span>
+    <span class="w3-center w3-padding-large w3-black w3-xlarge w3-wide w3-animate-opacity">KHANCODE</span>
   </div>
 </div>
 
 <!-- Container (About Section) -->
 <div class="w3-content w3-container w3-padding-64" id="about">
   <h3 class="w3-center">ABOUT ME</h3>
-  <p class="w3-center"><em>Always looking to get better</em></p>
+  <p class="w3-center"><em>Infinite Improvement Loop</em></p>
   <p>As I've gone though the challenges of life I have come to notice one thing: there are tons of things I suck at. In highschool I sucked at math and chemistry.
 	In undergrad I sucked at statistics and computer science. What I do not suck at is identifying these issues and bridging the gap to improve at what I lack. Currently I am a Software
 	Reliability Engineer who's attending grad school for a Master's in Computer Science with a B.S. in Chemical Engineering and a certification in Data Science. I constantly re-evaluate
 	myself and develop weaknesses into passions.</p>
   <div class="w3-row">
     <div class="w3-col m6 w3-center w3-padding-large">
+      <img src="images/myphoto.png" class="w3-round w3-image w3-hover-opacity" alt="Photo of Me" width="500" height="333">
       <p><b><i class="fa fa-user w3-margin-right"></i>Abraar Khan</b></p><br>
-      <img src="images/myphoto.png" class="w3-round w3-image w3-opacity w3-hover-opacity-off" alt="Photo of Me" width="500" height="333">
     </div>
-
-    <!-- Hide this text on small devices -->
-    <div class="w3-col m6 w3-hide-small w3-padding-large">
+    <div class="w3-col m6 w3-padding-large">
       <p>I've chosen to create this website to give you a better idea of who I am and what I like to do. You may notice a variety of programming projects with varying degrees of complexity. As a programmer without the traditional programming background I think its important that I can display my progress. Each step was important in forming the engineer I am today. Please feel free to browse through my work and contact me for inquiries. All the information is laid out below. </p>
     </div>
   </div>
@@ -129,7 +128,7 @@ body, html {
     <hr>
     <p class="w3-wide"><i class="fa fa-database"></i>   Database Management</p>
     <hr>
-    <p class="w3-wide"><i class="fa fa-aws fa-lg"></i>   Amazon Web Services</p>
+    <p class="w3-wide"><i class="fab fa-aws"></i>   Amazon Web Services</p>
     <hr>
     <p class="w3-wide"><i class="fa fa-users fa-lg"></i>   Agile Collaboration</p>
     <hr>
@@ -188,12 +187,46 @@ body, html {
   </div>
 </div>
 
+<!-- Container (FundRaising) -->
+<div class="w3-content w3-container w3-padding-64" id="fundraising">
+  <h3 class="w3-center">FUNDRAISING</h3>
+  <p class="w3-center"><em>An opportunity to make a difference</em></p>
+  <p>On June 20, 2020 my mother, Nadira Begum, passed away from complications due to stroke triggered by Moyamoya disease.
+  Moyamoya is a disease that occurs when the arteries leading to the brain narrow and other vessels try to compensate.
+  Extremely rare and limited in treatment options, patients must seek specialty care.
+  </p>
+  <div class="w3-row">
+    <div class="w3-col m6 w3-right w3-padding-large">
+      <img src="images/marathonsformoyamoya.jpg" class="w3-round w3-image w3-hover-opacity" alt="Mom and I" width="500" height="333">
+      <p><b><i class="fa fa-heart w3-margin-right"></i>Marathons For Moyamoya </b></p><br>
+    </div>
+    <div class="w3-col m6 w3-padding-large">
+      <p> Enter Anthony Wang and the UCLA Neurosurgery team. While under his watch my mother received the best treatment available.
+      With constant communication and follow-ups even during the COVID-19 crisis her quality of life was maintained until the end.
+      In her memory and her spirit of service to others, I have partnered with UCLA health to create Marathons for Moyamoya, a dedication
+      of my marathon runs to raise funds to benefit UCLA neurosurgery.
+      Please help me by raising awareness and funds so that people in similar situations receive the best care available. Click the
+      UCLA banner below to be redirect to the fundraiser webpage.
+      </p>
+    </div>
+  </div>
+  <br>
+  <div class="w3-center m3">
+    <a href="https://spark.ucla.edu/project/23472">
+    <img src="images/UCLA_Health.png" class="w3-hover-opacity" alt="Fundraiser">
+    </a>
+  </div>
+  <br>
+  <hr>
+  <br>
+
 <!-- Third Parallax Image with Portfolio Text -->
 <div class="bgimg-3 w3-display-container w3-opacity-min">
   <div class="w3-display-middle">
      <span class="w3-xxlarge w3-text-white w3-wide">CONTACT</span>
   </div>
 </div>
+
 
 <!-- Container (Contact Section) -->
 <div class="w3-content w3-container w3-padding-64" id="contact">
