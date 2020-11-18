@@ -82,6 +82,7 @@ body, html {
     <a href="#about" class="w3-bar-item w3-button" onclick="toggleFunction()">ABOUT</a>
     <a href="#myskills" class="w3-bar-item w3-button" onclick="toggleFunction()">MY SKILLS</a>
     <a href="#portfolio" class="w3-bar-item w3-button" onclick="toggleFunction()">PROJECTS</a>
+    <a href="#fundraising" class="w3-bar-item w3-button" onclick="toggleFunction()">FUNDRAISING</a>
     <a href="#contact" class="w3-bar-item w3-button" onclick="toggleFunction()">CONTACT</a>
     <a href="#" class="w3-bar-item w3-button">SEARCH</a>
   </div>
