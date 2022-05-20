@@ -173,6 +173,10 @@ body, html {
       <img src="images/ResourceMonitor.png" onclick="onClick(this)" class="w3-hover-opacity" alt="Resource Monitor">
       <a href="https://github.com/ak21232/Resource_Monitor.git">Resource Monitor</a>
     </div>
+    <div class="w3-col m3">
+      <img src="images/Class_Scheduler.png" onclick="onClick(this)" class="w3-hover-opacity" alt="Class Scheduler">
+      <a href="https://github.com/CSUF-CPSC121-2020S0608/project06-ak21232">Class Scheduler</a>
+    </div>
   </div>
 </div>
 <br>
