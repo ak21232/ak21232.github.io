@@ -1,6 +1,5 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
 
 layout: home
 ---
@@ -100,8 +99,7 @@ body, html {
   <h3 class="w3-center">ABOUT ME</h3>
   <p class="w3-center"><em>Infinite Improvement Loop</em></p>
   <p>As I've gone through the challenges of life I have come to notice one thing: there are tons of things I suck at. In highschool I sucked at math and chemistry.
-	In undergrad I sucked at statistics and computer science. What I do not suck at is identifying these issues and bridging the gap to improve at what I lack. Currently I am a Software
-	Reliability Engineer who's attending grad school for a Master's in Computer Science with a B.S. in Chemical Engineering and a certification in Data Science. I constantly re-evaluate
+	In undergrad I sucked at statistics and computer science. What I do not suck at is identifying these issues and bridging the gap to improve at what I lack. Currently I am a Data Analytics Developer who's attending grad school for a Master's in Computer Science with a B.S. in Chemical Engineering and a certification in Data Science. I constantly re-evaluate
 	myself and develop weaknesses into passions.</p>
   <div class="w3-row">
     <div class="w3-col m6 w3-center w3-padding-large">
@@ -119,9 +117,7 @@ body, html {
   <div class="w3-content w3-container w3-padding-64" id="myskills">
     <h3 class="w3-center">MY SKILLS</h3>
     <br>
-    <p class="w3-wide"><i class="fa fa-code fa-lg"></i>   C++   |   Python   |   Visual Basic</p>
-    <hr>
-    <p class="w3-wide"><i class="fa fa-vial fa-lg"></i>   QA Testing</p>
+    <p class="w3-wide"><i class="fa fa-code fa-lg"></i>   C++   |   Python   |   Visual Basic   |   SQL       |   SAS   |   SAP Hana</p>
     <hr>
     <p class="w3-wide"><i class="fa fa-chart-line fa-lg"></i>   Business Intelligence</p>
     <hr>
