@@ -214,7 +214,7 @@ body, html {
   <br>
   <div class="w3-center m3">
     <a href="https://spark.ucla.edu/project/23472">
-    <img src="images/UCLA_Health.png" class="w3-hover-opacity" alt="Fundraiser">
+    <img src="images/UCLA_Health.png" class="w3-hover-opacity" alt="Fundraiser" style="width:100%">
     </a>
   </div>
   <br>
