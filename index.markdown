@@ -103,7 +103,7 @@ body, html {
 	myself and develop weaknesses into passions.</p>
   <div class="w3-row">
     <div class="w3-col m6 w3-center w3-padding-large">
-      <img src="images/myphoto.PNG" class="w3-round w3-image w3-hover-opacity" alt="Photo of Me" width="500" height="333">
+      <img src="images/myphoto.png" class="w3-round w3-image w3-hover-opacity" alt="Photo of Me" width="500" height="333">
       <p><b><i class="fa fa-user w3-margin-right"></i>Abraar Khan</b></p><br>
     </div>
     <div class="w3-col m6 w3-padding-large">
@@ -148,29 +148,29 @@ body, html {
   <!-- Responsive Grid. Four columns on tablets, laptops and desktops. Will stack on mobile devices/small screens (100% width) -->
   <div class="w3-row-padding w3-center">
     <div class="w3-col m3">
-      <img src="images/NaturalGasRecovery.PNG"  onclick="onClick(this)" class="w3-hover-opacity" alt="Natural Gas Recovery Project" align="right">
+      <img src="images/NaturalGasRecovery.png"  onclick="onClick(this)" class="w3-hover-opacity" alt="Natural Gas Recovery Project" align="right">
       <a href="https://drive.google.com/file/d/0B4guoFwFU9reZ1lQQVJfTVhjQVU/view?usp=sharing">Natural Gas Recovery</a>
     </div>
     <div class="w3-col m3">
-      <img src="images/COVID-19.PNG"  onclick="onClick(this)" class="w3-hover-opacity" alt="Covid-19 Model" align="center">
+      <img src="images/COVID-19.png"  onclick="onClick(this)" class="w3-hover-opacity" alt="Covid-19 Model" align="center">
       <a href="https://github.com/ak21232/california-coronavirus-data">COVID-19 Model</a>
     </div>
     <div class="w3-col m3">
-      <img src="images/ScheduleOptimizer.PNG" onclick="onClick(this)" class="w3-hover-opacity" alt="Schedule Optimizer" align="left">
+      <img src="images/ScheduleOptimizer.png" onclick="onClick(this)" class="w3-hover-opacity" alt="Schedule Optimizer" align="left">
       <a href="https://github.com/ak21232/Schedule_Optimizer.git">Schedule Optimizer</a>
     </div>
   </div>
   <div class="w3-row-padding w3-center">
     <div class="w3-col m3">
-      <img src="images/ProcessControl.PNG" onclick="onClick(this)" class="w3-hover-opacity" alt="Process Control" align="right">
+      <img src="images/ProcessControl.png" onclick="onClick(this)" class="w3-hover-opacity" alt="Process Control" align="right">
       <a href="https://github.com/ak21232/ProcessControl.git">Process Control</a>
     </div>
     <div class="w3-col m3">
-      <img src="images/ResourceMonitor.PNG" onclick="onClick(this)" class="w3-hover-opacity" alt="Resource Monitor" align="center">
+      <img src="images/ResourceMonitor.png" onclick="onClick(this)" class="w3-hover-opacity" alt="Resource Monitor" align="center">
       <a href="https://github.com/ak21232/Resource_Monitor.git">Resource Monitor</a>
     </div>
     <div class="w3-col m3">
-      <img src="images/Class_Scheduler.PNG" onclick="onClick(this)" class="w3-hover-opacity" alt="Class Scheduler" align="left">
+      <img src="images/Class_Scheduler.png" onclick="onClick(this)" class="w3-hover-opacity" alt="Class Scheduler" align="left">
       <a href="https://github.com/CSUF-CPSC121-2020S0608/project06-ak21232">Class Scheduler</a>
     </div>
   </div>
@@ -214,7 +214,7 @@ body, html {
   <br>
   <div class="w3-center m3">
     <a href="https://spark.ucla.edu/project/23472">
-    <img src="images/UCLA_Health.PNG" class="w3-hover-opacity" alt="Fundraiser">
+    <img src="images/UCLA_Health.png" class="w3-hover-opacity" alt="Fundraiser">
     </a>
   </div>
   <br>
