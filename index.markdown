@@ -148,29 +148,29 @@ body, html {
   <!-- Responsive Grid. Four columns on tablets, laptops and desktops. Will stack on mobile devices/small screens (100% width) -->
   <div class="w3-row-padding w3-center">
     <div class="w3-col m3">
-      <img src="images/NaturalGasRecovery.png"  onclick="onClick(this)" class="w3-hover-opacity" alt="Natural Gas Recovery Project" width="500" height="333" align="right">
+      <img src="images/NaturalGasRecovery.png"  onclick="onClick(this)" class="w3-hover-opacity" alt="Natural Gas Recovery Project" align="right">
       <a href="https://drive.google.com/file/d/0B4guoFwFU9reZ1lQQVJfTVhjQVU/view?usp=sharing">Natural Gas Recovery</a>
     </div>
     <div class="w3-col m3">
-      <img src="images/COVID-19.png"  onclick="onClick(this)" class="w3-hover-opacity" alt="Covid-19 Model" width="500" height="333" align="center">
+      <img src="images/COVID-19.png"  onclick="onClick(this)" class="w3-hover-opacity" alt="Covid-19 Model" align="center">
       <a href="https://github.com/ak21232/california-coronavirus-data">COVID-19 Model</a>
     </div>
     <div class="w3-col m3">
-      <img src="images/ScheduleOptimizer.png" onclick="onClick(this)" class="w3-hover-opacity" alt="Schedule Optimizer" width="500" height="500" align="left">
+      <img src="images/ScheduleOptimizer.png" onclick="onClick(this)" class="w3-hover-opacity" alt="Schedule Optimizer" align="left">
       <a href="https://github.com/ak21232/Schedule_Optimizer.git">Schedule Optimizer</a>
     </div>
   </div>
   <div class="w3-row-padding w3-center">
     <div class="w3-col m3">
-      <img src="images/ProcessControl.png" onclick="onClick(this)" class="w3-hover-opacity" alt="Process Control" width="500" height="500" align="right">
+      <img src="images/ProcessControl.png" onclick="onClick(this)" class="w3-hover-opacity" alt="Process Control" align="right">
       <a href="https://github.com/ak21232/ProcessControl.git">Process Control</a>
     </div>
     <div class="w3-col m3">
-      <img src="images/ResourceMonitor.png" onclick="onClick(this)" class="w3-hover-opacity" alt="Resource Monitor" width="500" height="500" align="center">
+      <img src="images/ResourceMonitor.png" onclick="onClick(this)" class="w3-hover-opacity" alt="Resource Monitor" align="center">
       <a href="https://github.com/ak21232/Resource_Monitor.git">Resource Monitor</a>
     </div>
     <div class="w3-col m3">
-      <img src="images/Class_Scheduler.png" onclick="onClick(this)" class="w3-hover-opacity" alt="Class Scheduler" width="500" height="500" align="left">
+      <img src="images/Class_Scheduler.png" onclick="onClick(this)" class="w3-hover-opacity" alt="Class Scheduler" align="left">
       <a href="https://github.com/CSUF-CPSC121-2020S0608/project06-ak21232">Class Scheduler</a>
     </div>
   </div>
