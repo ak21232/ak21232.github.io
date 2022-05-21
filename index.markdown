@@ -1,16 +1,45 @@
----
+<!DOCTYPE html>
+<html lang="en"><head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.6.1 -->
+<title>KHANCODE</title>
+<meta name="generator" content="Jekyll v4.1.0" />
+<meta property="og:title" content="KHANCODE" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="W3.CSS Template" />
+<meta property="og:description" content="W3.CSS Template" />
+<link rel="canonical" href="localhost:4000/ak21232.github.io/" />
+<meta property="og:url" content="localhost:4000/ak21232.github.io/" />
+<meta property="og:site_name" content="KHANCODE" />
+<script type="application/ld+json">
+{"@type":"WebSite","url":"localhost:4000/ak21232.github.io/","name":"KHANCODE","headline":"KHANCODE","description":"W3.CSS Template","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+<link rel="stylesheet" href="/ak21232.github.io/assets/main.css"><link type="application/atom+xml" rel="alternate" href="localhost:4000/ak21232.github.io/feed.xml" title="KHANCODE" /></head>
+<body><header class="site-header" role="banner">
 
+  <div class="wrapper"><a class="site-title" rel="author" href="/ak21232.github.io/"></a><nav class="site-nav">
+        <input type="checkbox" id="nav-trigger" class="nav-trigger" />
+        <label for="nav-trigger">
+          <span class="menu-icon">
+            <svg viewBox="0 0 18 15" width="18px" height="15px">
+              <path d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.032C17.335,0,18,0.665,18,1.484L18,1.484z M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.032C17.335,6.031,18,6.696,18,7.516L18,7.516z M18,13.516C18,14.335,17.335,15,16.516,15H1.484 C0.665,15,0,14.335,0,13.516l0,0c0-0.82,0.665-1.483,1.484-1.483h15.032C17.335,12.031,18,12.695,18,13.516L18,13.516z"/>
+            </svg>
+          </span>
+        </label>
 
-layout: home
----
-
-<html>
+        <div class="trigger"></div>
+      </nav></div>
+</header>
+<main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        <div class="home"><html>
 <title>W3.CSS Template</title>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css" />
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
 <script src="https://kit.fontawesome.com/a2b003a1d5.js" crossorigin="anonymous"></script>
 <style>
 body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif;}
@@ -103,33 +132,33 @@ body, html {
 	myself and develop weaknesses into passions.</p>
   <div class="w3-row">
     <div class="w3-col m6 w3-center w3-padding-large">
-      <img src="images/myphoto.png" class="w3-round w3-image w3-hover-opacity" alt="Photo of Me" width="500" height="333">
-      <p><b><i class="fa fa-user w3-margin-right"></i>Abraar Khan</b></p><br>
+      <img src="images/myphoto.png" class="w3-round w3-image w3-hover-opacity" alt="Photo of Me" width="500" height="333" />
+      <p><b><i class="fa fa-user w3-margin-right"></i>Abraar Khan</b></p><br />
     </div>
     <div class="w3-col m6 w3-padding-large">
       <p>I've chosen to create this website to give you a better idea of who I am and what I like to do. You may notice a variety of programming projects with varying degrees of complexity. As a programmer without the traditional programming background I think its important that I can display my progress. Each step was important in forming the engineer I am today. Please feel free to browse through my work and contact me for inquiries. All the information is laid out below. </p>
     </div>
   </div>
-  <br>
-  <br>
+  <br />
+  <br />
 
   <!-- Container (My Skills Section) -->
   <div class="w3-content w3-container w3-padding-64" id="myskills">
     <h3 class="w3-center">MY SKILLS</h3>
-    <br>
+    <br />
     <p class="w3-wide"><i class="fa fa-code fa-lg"></i>   C++   |   Python   |   Visual Basic   |   SQL       |   SAS   |   SAP Hana</p>
-    <hr>
+    <hr />
     <p class="w3-wide"><i class="fa fa-chart-line fa-lg"></i>   Business Intelligence</p>
-    <hr>
+    <hr />
     <p class="w3-wide"><i class="fa fa-life-ring"></i>   Application Reliability</p>
-    <hr>
+    <hr />
     <p class="w3-wide"><i class="fa fa-database"></i>   Database Management</p>
-    <hr>
+    <hr />
     <p class="w3-wide"><i class="fab fa-aws"></i>   Amazon Web Services</p>
-    <hr>
+    <hr />
     <p class="w3-wide"><i class="fa fa-users fa-lg"></i>   Agile Collaboration</p>
-    <hr>
-    <br>
+    <hr />
+    <br />
   </div>
 
 
@@ -143,47 +172,47 @@ body, html {
 <!-- Container (Portfolio Section) -->
 <div class="w3-content w3-container w3-padding-64" id="portfolio">
   <h3 class="w3-center">What I've Been Working On</h3>
-  <p class="w3-center"><em> Click the caption to take a look at the project </em></p><br>
+  <p class="w3-center"><em> Click the caption to take a look at the project </em></p><br />
 
   <!-- Responsive Grid. Four columns on tablets, laptops and desktops. Will stack on mobile devices/small screens (100% width) -->
   <div class="w3-row-padding w3-center">
     <div class="w3-col m3">
-      <img src="images/NaturalGasRecovery.png"  onclick="onClick(this)" class="w3-hover-opacity" alt="Natural Gas Recovery Project" align="right">
+      <img src="images/NaturalGasRecovery.png" onclick="onClick(this)" class="w3-hover-opacity" alt="Natural Gas Recovery Project" align="right" />
       <a href="https://drive.google.com/file/d/0B4guoFwFU9reZ1lQQVJfTVhjQVU/view?usp=sharing">Natural Gas Recovery</a>
     </div>
     <div class="w3-col m3">
-      <img src="images/COVID-19.png"  onclick="onClick(this)" class="w3-hover-opacity" alt="Covid-19 Model" align="center">
+      <img src="images/COVID-19.png" onclick="onClick(this)" class="w3-hover-opacity" alt="Covid-19 Model" align="center" />
       <a href="https://github.com/ak21232/california-coronavirus-data">COVID-19 Model</a>
     </div>
     <div class="w3-col m3">
-      <img src="images/ScheduleOptimizer.png" onclick="onClick(this)" class="w3-hover-opacity" alt="Schedule Optimizer" align="left">
+      <img src="images/ScheduleOptimizer.png" onclick="onClick(this)" class="w3-hover-opacity" alt="Schedule Optimizer" align="left" />
       <a href="https://github.com/ak21232/Schedule_Optimizer.git">Schedule Optimizer</a>
     </div>
   </div>
   <div class="w3-row-padding w3-center">
     <div class="w3-col m3">
-      <img src="images/ProcessControl.png" onclick="onClick(this)" class="w3-hover-opacity" alt="Process Control" align="right">
+      <img src="images/ProcessControl.png" onclick="onClick(this)" class="w3-hover-opacity" alt="Process Control" align="right" />
       <a href="https://github.com/ak21232/ProcessControl.git">Process Control</a>
     </div>
     <div class="w3-col m3">
-      <img src="images/ResourceMonitor.png" onclick="onClick(this)" class="w3-hover-opacity" alt="Resource Monitor" align="center">
+      <img src="images/ResourceMonitor.png" onclick="onClick(this)" class="w3-hover-opacity" alt="Resource Monitor" align="center" />
       <a href="https://github.com/ak21232/Resource_Monitor.git">Resource Monitor</a>
     </div>
     <div class="w3-col m3">
-      <img src="images/Class_Scheduler.png" onclick="onClick(this)" class="w3-hover-opacity" alt="Class Scheduler" align="left">
+      <img src="images/Class_Scheduler.png" onclick="onClick(this)" class="w3-hover-opacity" alt="Class Scheduler" align="left" />
       <a href="https://github.com/CSUF-CPSC121-2020S0608/project06-ak21232">Class Scheduler</a>
     </div>
   </div>
 </div>
-<br>
-<hr>
-<br>
+<br />
+<hr />
+<br />
 
 <!-- Modal for full size images on click-->
 <div id="modal01" class="w3-modal w3-black" onclick="this.style.display='none'">
   <span class="w3-button w3-large w3-black w3-display-topright" title="Close Modal Image"><i class="fa fa-remove"></i></span>
   <div class="w3-modal-content w3-animate-zoom w3-center w3-transparent w3-padding-64">
-    <img id="img01" class="w3-image">
+    <img id="img01" class="w3-image" />
     <p id="caption" class="w3-opacity w3-large"></p>
   </div>
 </div>
@@ -198,8 +227,8 @@ body, html {
   </p>
   <div class="w3-row">
     <div class="w3-col m6 w3-right w3-padding-large">
-      <img src="images/marathonsformoyamoya.jpg" class="w3-round w3-image w3-hover-opacity" alt="Mom and I" width="500" height="333">
-      <p><b><i class="fa fa-heart w3-margin-right"></i>Marathons For Moyamoya </b></p><br>
+      <img src="images/marathonsformoyamoya.jpg" class="w3-round w3-image w3-hover-opacity" alt="Mom and I" width="500" height="333" />
+      <p><b><i class="fa fa-heart w3-margin-right"></i>Marathons For Moyamoya </b></p><br />
     </div>
     <div class="w3-col m6 w3-padding-large">
       <p> Enter Anthony Wang and the UCLA Neurosurgery team. While under his watch my mother received the best treatment available.
@@ -211,15 +240,15 @@ body, html {
       </p>
     </div>
   </div>
-  <br>
+  <br />
   <div class="w3-center m3">
     <a href="https://spark.ucla.edu/project/23472">
-    <img src="images/UCLA_Health.png" class="w3-hover-opacity" alt="Fundraiser">
+    <img src="images/UCLA_Health.png" class="w3-hover-opacity" alt="Fundraiser" />
     </a>
   </div>
-  <br>
-  <hr>
-  <br>
+  <br />
+  <hr />
+  <br />
 
 <!-- Third Parallax Image with Portfolio Text -->
 <div class="bgimg-3 w3-display-container w3-opacity-min">
@@ -240,21 +269,21 @@ body, html {
     </div>
     <div class="w3-col m8 w3-panel">
       <div class="w3-large w3-margin-bottom">
-        <i class="fa fa-map-marker fa-fw w3-hover-text-black w3-xlarge w3-margin-right"></i> Los Angeles, CA<br>
-        <i class="fa fa-phone fa-fw w3-hover-text-black w3-xlarge w3-margin-right"></i> Phone: (818) 254-8592‬<br>
-        <i class="fa fa-envelope fa-fw w3-hover-text-black w3-xlarge w3-margin-right"></i> Email: akhan022@ucr.edu<br>
+        <i class="fa fa-map-marker fa-fw w3-hover-text-black w3-xlarge w3-margin-right"></i> Los Angeles, CA<br />
+        <i class="fa fa-phone fa-fw w3-hover-text-black w3-xlarge w3-margin-right"></i> Phone: (818) 254-8592‬<br />
+        <i class="fa fa-envelope fa-fw w3-hover-text-black w3-xlarge w3-margin-right"></i> Email: akhan022@ucr.edu<br />
       </div>
       <p><i class="fa fa-comments w3-hover-text-black w3-xlarge w3-margin-right"></i> Start a conversation </p>
       <form action="mailto:ak21232@gmail.com" method="post" enctype="text/plain">
         <div class="w3-row-padding" style="margin:0 -16px 8px -16px">
           <div class="w3-half">
-            <input class="w3-input w3-border" type="text" placeholder="Name" required name="Name">
+            <input class="w3-input w3-border" type="text" placeholder="Name" required="" name="Name" />
           </div>
           <div class="w3-half">
-            <input class="w3-input w3-border" type="text" placeholder="Email" required name="Email">
+            <input class="w3-input w3-border" type="text" placeholder="Email" required="" name="Email" />
           </div>
         </div>
-        <input class="w3-input w3-border" type="text" placeholder="Message" required name="Message">
+        <input class="w3-input w3-border" type="text" placeholder="Message" required="" name="Message" />
         <button class="w3-button w3-black w3-right w3-section" type="submit">
           <i class="fa fa-paper-plane"></i> SEND MESSAGE
         </button>
@@ -302,3 +331,34 @@ function toggleFunction() {
     }
 }
 </script>
+</div></div></body></html>
+</div>
+
+      </div>
+    </main><footer class="site-footer h-card">
+  <data class="u-url" href="/ak21232.github.io/"></data>
+
+  <div class="wrapper">
+
+    <h2 class="footer-heading"></h2>
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          <li class="p-name"></li></ul>
+      </div>
+
+      <div class="footer-col footer-col-2"><ul class="social-media-list"></ul>
+</div>
+
+      <div class="footer-col footer-col-3">
+        <p></p>
+      </div>
+    </div>
+
+  </div>
+
+</footer>
+</body>
+
+</html>
